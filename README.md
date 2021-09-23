@@ -20,7 +20,7 @@
 <br/>
 
 [![Linkedin: Shashank](https://img.shields.io/badge/ShashankReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shashank-reddy)](https://www.linkedin.com/in/shashank-reddy)
-[![GitHub DheerajSurya](https://img.shields.io/github/followers/DheerajSurya?label=follow&style=social)](https://github.com/DheerajSurya)
+[![GitHub shashank588](https://img.shields.io/github/followers/shashank588?label=follow&style=social)](https://github.com/shashank588)
 
 
 - 🔭 I’m currently learning : Machine Learning
@@ -50,7 +50,6 @@
 <a href="https://github.com/shashank588">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank588&show_icons=true&theme=dark&line_height=27" alt="Github stats"/>
 </a>
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank588&theme=dark&show_icons=true)
 
 <div align="center">
   
