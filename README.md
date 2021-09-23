@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-[![Linkedin: Shashank](https://img.shields.io/badge/Shashank-Reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shashank-reddy)](https://https://www.linkedin.com/in/shashank-reddy)
+[![Linkedin: Shashank](https://img.shields.io/badge/ShashankReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shashank-reddy)](https://www.linkedin.com/in/shashank-reddy)
 [![GitHub DheerajSurya](https://img.shields.io/github/followers/DheerajSurya?label=follow&style=social)](https://github.com/DheerajSurya)
 
 
