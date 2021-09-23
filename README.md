@@ -11,9 +11,9 @@
   <img align="left" alt="Shashank's Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_lo.svg" />
 </a>
 <a href="https://www.instagram.com/shashank_banti">
-  <img align="left" alt="Shashank's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram" />
+  <img align="left" alt="Shashank's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   
-  <br>
+ <br>
   
 - 🔭 I’m currently learning : Machine Learning
 - 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
