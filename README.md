@@ -23,9 +23,9 @@
 [![GitHub DheerajSurya](https://img.shields.io/github/followers/DheerajSurya?label=follow&style=social)](https://github.com/DheerajSurya)
 
 
-- 🔭 I’m currently learning : Machine Learning.
-- 🌱 I’m currently pursuing : Post Graduation Certification in ML & NLP from IIIT Bangalore 
-- 👯 I’m looking to collaborate with companies on ML and NLP Projects.
+- 🔭 I’m currently learning : Machine Learning
+- 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
+- 👯 I’m looking to collaborate with companies on ML and NLP Projects
 - 📫 How to reach me: gangushashank@outlook.com
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
 
