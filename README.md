@@ -11,7 +11,7 @@
 </p>
   
  ### About me:
-- 🔭 I’m currently learning : Machine Learning
+- 🔭 I’m currently learning : Machine Learning , Natural language processing, Data science
 - 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
 - 👯 I’m looking to collaborate with companies on ML and NLP Projects
 - 📫 How to reach me: gangushashank@outlook.com
