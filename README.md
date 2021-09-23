@@ -23,16 +23,16 @@
 [![GitHub DheerajSurya](https://img.shields.io/github/followers/DheerajSurya?label=follow&style=social)](https://github.com/DheerajSurya)
 
 
-- 🔭 I’m currently learning : Full Stack Java Applications.
-- 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and FrontEnd applications from John Hopkins University on Coursera.
+- 🔭 I’m currently learning : Machine Learning.
+- 🌱 I’m currently pursuing : Post Graduation Certification in ML & NLP from IIIT Bangalore 
 - 👯 I’m looking to collaborate with companies on Java and Full stack Projects.
-- 📫 How to reach me: gangushashank@outlook.com . 
+- 📫 How to reach me: gangushashank@outlook.com
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
 
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
