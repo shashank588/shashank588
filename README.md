@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shashank Reddy</h1>
 
-### <u> Reach me at: </u>
+### Reach me at: <img src="https://c.tenor.com/k2GZAYWuTS4AAAAj/backhand-index-pointing-down-joypixels.gif" width="25">
 <p align = "center">
 
 [<img height="35" src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=black&color=white" />](https://www.kaggle.com/shashankreddy588)
