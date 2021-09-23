@@ -50,10 +50,10 @@
 <a href="https://github.com/shashank588">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank588&show_icons=true&theme=dark&line_height=27" alt="Github stats"/>
 </a>
-
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank588&theme=dark&show_icons=true)
 
 <div align="center">
   
   
 </div>
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank588&theme=dark&show_icons=true)
+
