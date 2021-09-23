@@ -1,6 +1,6 @@
 ## Hey there, I'm Shashank Reddy 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DheerajSurya&label=Views&color=blue&style=plastic" alt="DheerajSurya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank588&label=Views&color=blue&style=plastic" alt="Shashank Reddy" /> </p>
 
 <a href="https://www.linkedin.com/in/shashank-reddy"> 
   <img align="left" alt="Shashank's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-[![Linkedin: dheerajsuryathati](https://img.shields.io/badge/-dheerajsuryathati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheerajsuryathati/)](https://www.linkedin.com/in/dheerajsuryathati//)
+[![Linkedin: Shashank](https://img.shields.io/badge/-shashankReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ShashankReddy/)](https://www.linkedin.com/in/ShashankReddy//)
 [![GitHub DheerajSurya](https://img.shields.io/github/followers/DheerajSurya?label=follow&style=social)](https://github.com/DheerajSurya)
 
 
