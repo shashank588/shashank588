@@ -26,22 +26,22 @@
 - 📫 How to reach me: gangushashank@outlook.com
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
 
-  <br>
+  <br/>
   
-  <br>
+  <br/>
 
 
 
-#### 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 <br>
 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
-<code><img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
+<code><img height="30" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png"></code>
 
 <br>
 📈 My GitHub Stats:
