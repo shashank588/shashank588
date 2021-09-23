@@ -32,7 +32,7 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></code>
+<code><img height="20" src="https://pandas.pydata.org/static/img/pandas_white.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
