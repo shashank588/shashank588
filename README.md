@@ -17,8 +17,8 @@
 <a href="https://www.instagram.com/shashank_banti">
   <img align="left" alt="Shashank's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   
- <br>
-<br>
+<br/>
+<br/>
   
 - 🔭 I’m currently learning : Machine Learning
 - 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
