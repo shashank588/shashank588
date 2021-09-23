@@ -7,7 +7,7 @@
 
 ## ✉️ Find me on:
 <a href="https://www.linkedin.com/in/shashank-reddy"> 
-  <img align="left" alt="Shashank's LinkedIn" width="50px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
+  <img align="left" alt="Shashank's LinkedIn" width="100px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
 </a>
 <a href="https://github.com/shashank588">
   <img align="left" alt="Shashank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
