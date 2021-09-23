@@ -6,7 +6,7 @@
 [<img height="35" src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue&color=white" />](https://www.kaggle.com/shashankreddy588)
 [<img height="35" src ="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=black&color=white">](https://github.com/shashank588) 
 [<img height="35" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue&color=white" />](https://www.linkedin.com/in/shashank-reddy/)
-[<img height="35" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=#8a3ab9&color=white" />](https://instagram.com/shashank_banti)
+[<img height="35" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=pink&color=white" />](https://instagram.com/shashank_banti)
 
 </p>
   
