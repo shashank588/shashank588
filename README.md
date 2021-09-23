@@ -18,6 +18,7 @@
   <img align="left" alt="Shashank's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   
  <br>
+<br>
   
 - 🔭 I’m currently learning : Machine Learning
 - 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
@@ -31,10 +32,7 @@
 
 
 
-
-
-
-## 🧰 Languages and Tools:
+🧰 Languages and Tools:
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
@@ -44,10 +42,13 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png"></code>
 
+<br>
+📈 My GitHub Stats:
+  
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
-
-
+  <br>
 <a href="https://github.com/shashank588">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank588&theme=dark&hide_langs_below=1" />
 </a>
