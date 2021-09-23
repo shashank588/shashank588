@@ -3,10 +3,10 @@
 ### Reach me at: <img src="https://c.tenor.com/k2GZAYWuTS4AAAAj/backhand-index-pointing-down-joypixels.gif" width="25">
 <p align = "center">
 
-[<img height="35" src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue&color=white" />](https://www.kaggle.com/shashankreddy588)
-[<img height="35" src ="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=black&color=white">](https://github.com/shashank588) 
-[<img height="35" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue&color=white" />](https://www.linkedin.com/in/shashank-reddy/)
-[<img height="35" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=pink&color=white" />](https://instagram.com/shashank_banti)
+[<img height="30" src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue&color=white" />](https://www.kaggle.com/shashankreddy588)
+[<img height="30" src ="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=black&color=white">](https://github.com/shashank588) 
+[<img height="30" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue&color=white" />](https://www.linkedin.com/in/shashank-reddy/)
+[<img height="30" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=pink&color=white" />](https://instagram.com/shashank_banti)
 
 </p>
   
@@ -24,14 +24,14 @@
 ### Programming Languages and Tools:
 <br>
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
-<code><img height="30" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
+<code><img height="25" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 
 <br>
 
