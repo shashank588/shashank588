@@ -1,24 +1,14 @@
 ## Hey there, I'm Shashank Reddy 🙏
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DheerajSurya&label=Views&color=blue&style=plastic" alt="DheerajSurya" /> </p>
+<p align = "center">
 
-[![Linkedin: Shashank](https://img.shields.io/badge/ShashankReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shashank-reddy)](https://www.linkedin.com/in/shashank-reddy)
-[![GitHub shashank588](https://img.shields.io/github/followers/shashank588?label=follow&style=social)](https://github.com/shashank588)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 
-
-<a href="https://www.linkedin.com/in/shashank-reddy"> 
-  <img align="left" alt="Shashank's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/shashank588">
-  <img align="left" alt="Shashank's Github" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="+91-9700588533">
-  <img align="left" alt="Shashank's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/shashank_banti">
-  <img align="left" alt="Shashank's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  
-<br/>
-<br/>
+</p>
   
 - 🔭 I’m currently learning : Machine Learning
 - 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
