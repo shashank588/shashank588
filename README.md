@@ -38,6 +38,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
 <code><img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png"></code>
 
 
 
