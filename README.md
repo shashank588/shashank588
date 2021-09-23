@@ -34,8 +34,8 @@
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> 
-<code><img height="40" src="https://https://en.wikipedia.org/wiki/Scikit-learn#/media/File:Scikit_learn_logo_small.svg"></code>
 <code><img height="40" src="https://en.wikipedia.org/wiki/Scikit-learn#/media/File:Scikit_learn_logo_small.svg"></code>
+<code><img height="40" src="https://en.wikipedia.org/wiki/NumPy#/media/File:NumPy_logo_2020.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
 <code><img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
 
