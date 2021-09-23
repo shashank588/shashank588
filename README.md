@@ -2,16 +2,16 @@
 
 
 <a href="https://www.linkedin.com/in/shashank-reddy"> 
-  <img align="left" alt="Shashank's LinkedIn" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shashank's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/shashank588">
-  <img align="left" alt="Shashank's Github" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Shashank's Github" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="+91-9700588533">
-  <img align="left" alt="Shashank's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_lo.svg" />
+  <img align="left" alt="Shashank's Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_lo.svg" />
 </a>
 <a href="https://www.instagram.com/shashank_banti">
-  <img align="left" alt="Shashank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram" />
+  <img align="left" alt="Shashank's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram" />
   
 - 🔭 I’m currently learning : Machine Learning
 - 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
@@ -19,6 +19,9 @@
 - 📫 How to reach me: gangushashank@outlook.com
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
 
+  <br>
+  
+  <br>
 
 
 [![Linkedin: Shashank](https://img.shields.io/badge/ShashankReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shashank-reddy)](https://www.linkedin.com/in/shashank-reddy)
