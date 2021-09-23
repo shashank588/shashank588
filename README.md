@@ -1,22 +1,19 @@
-## Hey there, I'm Dheeraj Surya 👋
+## Hey there, I'm Shashank Reddy 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DheerajSurya&label=Views&color=blue&style=plastic" alt="DheerajSurya" /> </p>
 
-<a href="https://www.linkedin.com/in/dheerajsuryathati/">
-  <img align="left" alt="Dheeraj Surya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shashank-reddy"> 
+  <img align="left" alt="Shashank's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/DheerajSurya">
-  <img align="left" alt="Dheeraj Surya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/shashank588">
+  <img align="left" alt="Shashank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="+91-9505440518">
-  <img align="left" alt="Dheeraj Surya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="+91-9700588533">
+  <img align="left" alt="Shashank's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/__.s.u.r.y.a.___/">
-  <img align="left" alt="Dheeraj Surya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/dheeraj.surya.7/">
-  <img align="left" alt="Dheeraj Surya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<a href="https://www.instagram.com/shashank_banti">
+  <img align="left" alt="Shashank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
 
 
 <br/>
@@ -29,7 +26,7 @@
 - 🔭 I’m currently learning : Full Stack Java Applications.
 - 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad and FrontEnd applications from John Hopkins University on Coursera.
 - 👯 I’m looking to collaborate with companies on Java and Full stack Projects.
-- 📫 How to reach me: dheerajtati@gmail.com . 
+- 📫 How to reach me: gangushashank@outlook.com . 
 - 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
 
 
