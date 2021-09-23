@@ -1,4 +1,4 @@
-## Hey there, I'm Shashank Reddy 🙏
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shashank Reddy</h1>
 <p align = "center">
 
 [<img height="20" src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=black&color=white" />](https://www.kaggle.com/shashankreddy588)
@@ -8,7 +8,7 @@
 
 </p>
   
- ## About me:
+ ### About me:
 - 🔭 I’m currently learning : Machine Learning
 - 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
 - 👯 I’m looking to collaborate with companies on ML and NLP Projects
@@ -31,8 +31,9 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png"></code>
 
 <br>
+
 ### 📈 My GitHub Stats:
-  <br>
+<br>
   <a href="https://github.com/shashank588">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank588&theme=default&hide_langs_below=1" />
 </a>
