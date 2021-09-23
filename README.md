@@ -1,4 +1,9 @@
 ## Hey there, I'm Shashank Reddy 👋
+- 🔭 I’m currently learning : Machine Learning
+- 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
+- 👯 I’m looking to collaborate with companies on ML and NLP Projects
+- 📫 How to reach me: gangushashank@outlook.com
+- 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
 
 ## ✉️ Find me on:
 <a href="https://www.linkedin.com/in/shashank-reddy"> 
@@ -34,11 +39,6 @@
 [![GitHub shashank588](https://img.shields.io/github/followers/shashank588?label=follow&style=social)](https://github.com/shashank588)
 
 
-- 🔭 I’m currently learning : Machine Learning
-- 🌱 I’m currently pursuing : Post Graduate Certification in ML & NLP from IIIT Bangalore 
-- 👯 I’m looking to collaborate with companies on ML and NLP Projects
-- 📫 How to reach me: gangushashank@outlook.com
-- 😄 Hobbies: Playing badminton, Cricket, Carroms, Listening Music.
 
 
 **Languages and Tools:**
